@@ -52,10 +52,13 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agarwalkeshav185&show_icons=true&locale=en" alt="agarwalkeshav185" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agarwalkeshav185&" alt="agarwalkeshav185" />
-</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agarwalkeshav185&show_icons=true&locale=en&layout=compact" alt="agarwalkeshav185" />
-</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=agarwalkeshav185&show_icons=true&locale=en" alt="agarwalkeshav185" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agarwalkeshav185&show_icons=true&locale=en&layout=compact" alt="agarwalkeshav185" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agarwalkeshav185&" alt="agarwalkeshav185" /></p>
+
+
+
